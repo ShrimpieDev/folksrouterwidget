@@ -42,4 +42,4 @@ This approach ensures a scalable and maintainable solution for our project.
 
 ## About Folks Finance
 
-We are Folks Finance, a leading DeFi platform, revolutionizing lending, borrowing, trading, and asset management on the Algorand blockchain. Our user-centric approach combines DeFi innovation with a competitive UI/UX, all powered by permissionless smart contract technology. Join us in shaping the future of decentralized finance!
+We are Folks Finance, a leading DeFi platform, revolutionizing lending, borrowing, trading, and asset management on the Algorand Blockchain. Our user-centric approach combines DeFi innovation with a competitive UI/UX, all powered by permissionless smart contract technology. Join us in shaping the future of decentralized finance!
